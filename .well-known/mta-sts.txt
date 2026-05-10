@@ -1,0 +1,7 @@
+version: STSv1
+mode: testing
+mx: mx01.mail.icloud.com
+mx: mx02.mail.icloud.com
+mx: mxa.mailgun.org
+mx: mxb.mailgun.org
+max_age:604800
